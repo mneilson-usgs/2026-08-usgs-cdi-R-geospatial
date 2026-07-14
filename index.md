@@ -11,7 +11,6 @@ longitude: 0    # decimal longitude of the workshop venue - this should be a num
 humandate: "Aug 6-27, 2026"     # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00 pm - 5:00 pm EST (7:00 pm - 11:00 pm UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2026-08-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2026-08-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Matthew Neilson", "Saira Haider"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Jessica Stanton", "Ian Pfingsten", "Monica Palaseanu-Lovejoy", "Megan Hines", "Courtney Killian"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mneilson@usgs.gov", "gdonovan@usgs.gov", "lcolasuonno@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
