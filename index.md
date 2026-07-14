@@ -17,8 +17,6 @@ email: ["mneilson@usgs.gov", "gdonovan@usgs.gov", "lcolasuonno@usgs.gov"]    # b
 
 # Optional variables
 collaborative_notes: https://doimspp.sharepoint.com/:w:/r/sites/CommunityforDataIntegration/_layouts/15/Doc.aspx?sourcedoc=%7BADF832CA-89E1-42E3-8B39-B771CEF9008A%7D&file=202608_Software_Carpentry_Notes.docx&action=default&mobileredirect=true # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-what3words:           # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 
 # DON'T CHANGE THIS
 layout: workshop      
